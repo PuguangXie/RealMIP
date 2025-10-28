@@ -1,2 +1,2 @@
 # RealMIP
-The code will be made available upon acceptance of the manuscript
+Unlocking the Potential of Real-Time ICU Mortality Prediction: Redefining Risk Assessment with Continuous Data Recovery
